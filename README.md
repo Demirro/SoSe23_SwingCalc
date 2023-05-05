@@ -9,3 +9,5 @@
 7. Implementiere den ActionListener/die actionPerformed-Methode: Überschreibe die Methode actionPerformed(), um auf Schaltflächenklicks zu reagieren.
 8. Schaltflächenklicks behandeln: Bestimme innerhalb der actionPerformed()-Methode die Quelle des Ereignisses (welche Schaltfläche angeklickt wurde) und aktualisiere die Anzeige, die aktuelle Eingabe, den aktuellen Operator oder führen Sie Berechnungen durch, wie benötigt.
 9. Berechnungen durchführen: Erstelle eine private Hilfsmethode namens performOperation(), um die arithmetischen Operationen auf der Grundlage des bereitgestellten Operators und der Operanden durchzuführen.
+
+Der Code im Repo ist eine Lösung. Allerdings gucken wir uns meine Lösung auch in der Sitzung nächste Woche an. Ich habe die Aufgabe so kleinschrittig wie möglich beschrieben. Dennoch bleibt es schwierig den Swing-Prozess zu beschreiben. Probiert euch aus. Wie immer gilt, es gibt nicht nur eine Lösung.
